@@ -1,13 +1,16 @@
 # burger
-Node Express Handlebars
+# Node Express Handlebars
+App deployed at https://murmuring-crag-58945.herokuapp.com/
 
-Overview
+
+
+# Overview
 In this assignment, you'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Be sure to follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.
 
-Read This
+# Read This
 When trying to connect remotely to your Heroku database on an open network such as a coffee shop, library, or even your University WiFi, it will be blocked. If you are experiencing a Heroku connection error, this could be why.
 
-Important
+# Important
 
 
 This assignment must be deployed. Be sure to utilize the MYSQL Heroku Deployment Guide in order to deploy your assignment.
@@ -56,7 +59,7 @@ When writing a commit message, avoid vague messages like "fixed." Be descriptive
 We would like you to have well over 200 commits by graduation, so commit early and often!
 
 
-#screenshots
+# screenshots
 
 ![burger](./public/assets/img/snap2.PNG)
 ![burger](./public/assets/img/snap1.PNG)
@@ -321,3 +324,5 @@ Mastering Markdown
 
 Add To Your Portfolio
 After completing the homework please add the piece to your portfolio. Make sure to add a link to your updated portfolio in the comments section of your homework so the TAs can easily ensure you completed this step when they are grading the assignment. To receive an 'A' on any assignment, you must link to it from your portfolio.
+
+Contact me at sara.29891@gmail.com
