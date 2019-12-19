@@ -3,6 +3,9 @@
 App deployed at https://murmuring-crag-58945.herokuapp.com/
 
 
+App included in updated portfolio page https://saranyav91.github.io/updated_portfolio/
+
+
 
 # Overview
 In this assignment, you'll create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). Be sure to follow the MVC design pattern; use Node and MySQL to query and route data in your app, and Handlebars to generate your HTML.
